@@ -1,8 +1,8 @@
 # CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
 
-![Last Commit](https://shields.io)
-![Language](https://shields.io)
-![Status](https://shields.io)
+![Last Commit](https://shields.io/badge/status-active-brightgreen/badge/language-Python-blue/github/last-commit/nishthagoyal7/cse103-lab-LAB3)
+![Language](https://shields.io/badge/status-active-brightgreen/badge/language-Python-blue/github/last-commit/nishthagoyal7/cse103-lab-LAB3)
+![Status](https://shields.io/badge/status-active-brightgreen/badge/language-Python-blue/github/last-commit/nishthagoyal7/cse103-lab-LAB3)
 
 ## Overview
 This repository contains lab work for **LAB 3** of the **Computer Fundamentals & Career Pathways (CSE103)** course at **K.R. Mangalam University**, Gurugram.
@@ -28,7 +28,7 @@ cse103-lab-LAB3/
 
 ## How to Run
 ```bash
-git clone https://github.com
+git clone https://github.com.git
 cd cse103-lab-LAB3
 python3 main.py
 ```
